@@ -1,0 +1,267 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 720px;
+	 height: 1280px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer1 
+{ 
+	 left: -40px; 
+	 top: -41px; 
+	 position: absolute; 
+	 width: 817px;
+	 height: 1361px;
+	 z-index:1;
+} 
+
+ #Layer0 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 720px;
+	 height: 1280px;
+	 z-index:2;
+} 
+
+ #or 
+{ 
+	 left: 344px; 
+	 top: 933px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 17px;
+	 z-index:3;
+} 
+
+ #Ellipse1 
+{ 
+	 left: 260px; 
+	 top: 124px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 164px;
+	 z-index:4;
+} 
+
+ #Ellipse1copy 
+{ 
+	 left: 352px; 
+	 top: 124px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 160px;
+	 z-index:5;
+} 
+
+ #RoundedRectangle2 
+{ 
+	 left: 85px; 
+	 top: 459px; 
+	 position: absolute; 
+	 width: 534px;
+	 height: 75px;
+	 z-index:6;
+} 
+
+ #RoundedRectangle2cop 
+{ 
+	 left: 85px; 
+	 top: 571px; 
+	 position: absolute; 
+	 width: 534px;
+	 height: 75px;
+	 z-index:7;
+} 
+
+ #GO 
+{ 
+	 left: 318px; 
+	 top: 791px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 28px;
+	 z-index:8;
+} 
+
+ #RoundedRectangle2cop_0 
+{ 
+	 left: 85px; 
+	 top: 767px; 
+	 position: absolute; 
+	 width: 534px;
+	 height: 75px;
+	 z-index:9;
+} 
+
+ #RoundedRectangle3 
+{ 
+	 left: 110px; 
+	 top: 699px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 23px;
+	 z-index:10;
+} 
+
+ #Shape1 
+{ 
+	 left: 82px; 
+	 top: 939px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 4px;
+	 z-index:11;
+} 
+
+ #Shape1copy 
+{ 
+	 left: 378px; 
+	 top: 939px; 
+	 position: absolute; 
+	 width: 240px;
+	 height: 4px;
+	 z-index:12;
+} 
+
+ #SignupWith 
+{ 
+	 left: 294px; 
+	 top: 978px; 
+	 position: absolute; 
+	 width: 120px;
+	 height: 20px;
+	 z-index:13;
+} 
+
+ #RoundedRectangle4cop 
+{ 
+	 left: 380px; 
+	 top: 1067px; 
+	 position: absolute; 
+	 width: 237px;
+	 height: 69px;
+	 z-index:14;
+} 
+
+ #Google 
+{ 
+	 left: 487px; 
+	 top: 1088px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 25px;
+	 z-index:15;
+} 
+
+ #RoundedRectangle4cop_0 
+{ 
+	 left: 89px; 
+	 top: 1067px; 
+	 position: absolute; 
+	 width: 237px;
+	 height: 69px;
+	 z-index:16;
+} 
+
+ #flogorgbhexbrcsite25 
+{ 
+	 left: 119px; 
+	 top: 1076px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 51px;
+	 z-index:17;
+} 
+
+ #Facebookcopy2 
+{ 
+	 left: 169px; 
+	 top: 1089px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 20px;
+	 z-index:18;
+} 
+
+ #download1 
+{ 
+	 left: 407px; 
+	 top: 1074px; 
+	 position: absolute; 
+	 width: 57px;
+	 height: 54px;
+	 z-index:19;
+} 
+
+ #Keepmesignin 
+{ 
+	 left: 148px; 
+	 top: 701px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 19px;
+	 z-index:20;
+} 
+
+ #Forgot 
+{ 
+	 left: 476px; 
+	 top: 702px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 19px;
+	 z-index:21;
+} 
+
+ #USERNAME 
+{ 
+	 left: 283px; 
+	 top: 488px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 18px;
+	 z-index:22;
+} 
+
+ #PASSWORD 
+{ 
+	 left: 280px; 
+	 top: 599px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 18px;
+	 z-index:23;
+} 
+
+ #LOGIN 
+{ 
+	 left: 216px; 
+	 top: 361px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 22px;
+	 z-index:24;
+} 
+
+ #SIGNUP 
+{ 
+	 left: 406px; 
+	 top: 361px; 
+	 position: absolute; 
+	 width: 132px;
+	 height: 22px;
+	 z-index:25;
+} 
